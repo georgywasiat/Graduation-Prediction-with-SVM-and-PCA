@@ -1,2 +1,3 @@
-# Graduation-Prediction-with-SVM-and-PCA
-The prediction of student graduation using the Support Vector Machine (SVM) algorithm and Principal Component Analysis (PCA) analysis is an approach that combines the strength of SVM in classification with the ability of PCA to reduce data dimensions.
+# Graduation Prediction with SVM and PCA
+
+The prediction of student graduation using the Support Vector Machine (SVM) algorithm and Principal Component Analysis (PCA) analysis is an approach that combines the strength of SVM in classification with the ability of PCA to reduce data dimensions. SVM is employed to build an effective classification model for distinguishing graduating and non-graduating students. SVM seeks the best hyperplane to separate the two classes based on student attributes. However, PCA can be utilized beforehand to reduce attribute dimensions, eliminate inter-attribute correlations, and retain most of the data variability. This can help address high-dimensional issues and enhance the performance of SVM.
